@@ -9,7 +9,7 @@
      This is the header
     </div>
    <div id="menu">
-     This is the menu
+     Menu
      </div>
    <div id="content">
      This is the content
